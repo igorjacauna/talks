@@ -1,0 +1,1 @@
+Talked about React Anti Patterns presented in the company
